@@ -140,4 +140,4 @@ At survey level, the four angles are identified **concurrently** and vote. The r
 
 ---
 
-Built by **Sebastian Olah**. The source code is private; happy to walk through it in an interview.
+Built by **Sebastian Olah**. The source code is private.
